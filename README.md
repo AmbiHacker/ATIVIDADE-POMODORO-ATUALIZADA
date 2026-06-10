@@ -97,7 +97,6 @@ git push origin feature/pratica-01
 1. Vá ao seu repositório no GitHub.
 2. Clique no botão amarelo Compare & pull request que aparecerá no topo.
 3. MUITO IMPORTANTE: Certifique-se que o destino (base) é a branch develop.
-4. Clique em Create Pull Request.
 
 ## ⚠️ Atenção aos Sinais (CI/CD)
 
